@@ -1,4 +1,4 @@
-# This repository contains Python practice programs covering fundamental to intermediate concepts. It is created to strengthen Python programming skills for automation testing, coding interviews, and problem-solving.
+# This repository contains Python practice programs covering fundamental to intermediate concepts. It is created to strengthen Python programming skills for automation testing, and problem-solving.
 
 ## Topics Covered
 
