@@ -80,3 +80,8 @@
 - from...import
 - Built-in Modules
 - Custom Modules
+
+## Prerequisites
+
+- Python 3.10 or above
+- VS Code / PyCharm (Optional)
